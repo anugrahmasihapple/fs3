@@ -15,3 +15,7 @@ class PostAdd(serializers.ModelSerializer):
     class Meta:
         model= Signup
         fields= '__all__'
+
+
+
+        
